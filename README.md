@@ -13,10 +13,10 @@ The exercise involves creating 2 routes:
 
 ## REQUIRED
 
-1. Create an **Angular App**
-2. Make use of reusable (shared) components
-3. Should use **Sass (SCSS)**
-4. Make use of **CSS Custom Properties** (CSS Variables)
+1. Create an **Angular App** with the latest version
+2. Use Angular project with Sass for styling
+3. Make use of reusable (shared) components (pass information using @Input decorator)
+4. Make use of **CSS Custom Properties** (CSS Variables) most as possible
 5. Should be **responsive** (according to design)
 6. DRY Code (Don't Repeat Yourself) - As much as possible!
 
@@ -25,7 +25,7 @@ The exercise involves creating 2 routes:
 ## OPTIONAL
 
 1. Make use of an **Angular Service** for twitter cards with **Mock Data**
-2. Simple theme with CSS Custom Properties (light/dark)
+2. Simple theme with **CSS Custom Properties (light/dark)**
 
 &nbsp;
 
