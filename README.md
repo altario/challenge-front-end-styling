@@ -17,7 +17,7 @@
 
 ### Figma
 
-- Project: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)?node-id=1%3A20&t=j2SlTq3yztT2KtRX-1)
-  - Screens to Design: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)?node-id=643-6716&t=j2SlTq3yztT2KtRX-4)
-  - Colors: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)?node-id=643-6716&t=j2SlTq3yztT2KtRX-4)
-  - Typography: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)?node-id=643-6646&t=j2SlTq3yztT2KtRX-4)
+- Project: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)-%230127?node-id=635-13426&t=IZZuXvvl5w9ZUOkC-4)
+  - Screens to Design: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)-%230127?node-id=635-13426&t=IZZuXvvl5w9ZUOkC-4)
+  - Colors: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)-%230127?node-id=643-6716&t=IZZuXvvl5w9ZUOkC-4)
+  - Typography: [link](https://www.figma.com/file/xqsMXosVwmtJWKdNnbOM7n/%5BALTAR%5D-Challenge%3A-Front-End-(styling)-%230127?node-id=643-6646&t=IZZuXvvl5w9ZUOkC-4)
