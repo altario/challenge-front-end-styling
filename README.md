@@ -6,7 +6,7 @@
   - Angular, React, Vue, Svelte, Vanilla JS, **Whatever you Want** (you choose your flavor)
 - **Styles:**
   - Use **Sass** to style your project
-  - You should use **TailwindCSS as much as possible**
+  - You should use **[TailwindCSS](https://tailwindcss.com/) as much as possible**
   - Make use of **Custom Properties** (CSS Variables)
 - Use the Assets that are provided on [this](https://github.com/altario/challenge-front-end-styling-0127) GitHub repository
 - **Responsive:** Make the project responsive
