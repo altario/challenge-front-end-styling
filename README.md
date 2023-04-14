@@ -7,7 +7,7 @@
 - **Styles:**
   - Use **Sass** to style your project
   - You should use **TailwindCSS as much as possible**
-  - Make use of **Costom Properties** (CSS Variables)
+  - Make use of **Custom Properties** (CSS Variables)
 - **Responsive:** Make the project responsive
   - Desktop and Mobile (according to the design provided in Figma)
 - **DRY** Code (Don't Repeat Yourself) - As much as possible!
